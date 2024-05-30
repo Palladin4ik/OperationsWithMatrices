@@ -1,0 +1,4 @@
+﻿  FMainForm.cpp
+F:\221121_Топильский Вячеслав\4 семестр\Курсовая программирование\(445)Operations With matrices\OperationsWithMatrices\OperationsWithMatrices\FMainForm.cpp(166,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  FMainForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  OperationsWithMatrices.vcxproj -> F:\221121_Топильский Вячеслав\4 семестр\Курсовая программирование\(445)Operations With matrices\OperationsWithMatrices\x64\Debug\OperationsWithMatrices.exe

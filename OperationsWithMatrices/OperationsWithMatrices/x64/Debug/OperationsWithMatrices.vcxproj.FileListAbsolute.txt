@@ -1,0 +1,10 @@
+E:\MVS\Projects\C++\(445)Operations With matrices\OperationsWithMatrices\OperationsWithMatrices\x64\Debug\OperationsWithMatrices.vcxproj.AssemblyReference.cache
+E:\MVS\Projects\C++\(445)Operations With matrices\OperationsWithMatrices\OperationsWithMatrices\x64\Debug\OperationsWithMatrices.FMainForm.resources
+E:\MVS\Projects\C++\(445)Operations With matrices\OperationsWithMatrices\OperationsWithMatrices\x64\Debug\OperationsWithMatrices.vcxproj.GenerateResource.cache
+F:\221121_Топильский Вячеслав\4 семестр\Курсовая программирование\(445)Operations With matrices\OperationsWithMatrices\OperationsWithMatrices\x64\Debug\OperationsWithMatrices.vcxproj.AssemblyReference.cache
+F:\221121_Топильский Вячеслав\4 семестр\Курсовая программирование\(445)Operations With matrices\OperationsWithMatrices\OperationsWithMatrices\x64\Debug\OperationsWithMatrices.FMainForm.resources
+F:\221121_Топильский Вячеслав\4 семестр\Курсовая программирование\(445)Operations With matrices\OperationsWithMatrices\OperationsWithMatrices\x64\Debug\OperationsWithMatrices.vcxproj.GenerateResource.cache
+D:\221121_Топильский Вячеслав\4 семестр\Курсовая программирование\(445)Operations With matrices\OperationsWithMatrices\OperationsWithMatrices\x64\Debug\OperationsWithMatrices.vcxproj.AssemblyReference.cache
+D:\221121_Топильский Вячеслав\4 семестр\Курсовая программирование\(445)Operations With matrices\OperationsWithMatrices\OperationsWithMatrices\x64\Debug\OperationsWithMatrices.vcxproj.SuggestedBindingRedirects.cache
+D:\221121_Топильский Вячеслав\4 семестр\Курсовая программирование\(445)Operations With matrices\OperationsWithMatrices\OperationsWithMatrices\x64\Debug\OperationsWithMatrices.FMainForm.resources
+D:\221121_Топильский Вячеслав\4 семестр\Курсовая программирование\(445)Operations With matrices\OperationsWithMatrices\OperationsWithMatrices\x64\Debug\OperationsWithMatrices.vcxproj.GenerateResource.cache

@@ -1,0 +1,7 @@
+F:\221121_Топильский Вячеслав\4 семестр\Курсовая программирование\(445)Operations With matrices\OperationsWithMatrices\OperationsWithMatrices\x64\Release\OperationsWithMatrices.vcxproj.AssemblyReference.cache
+F:\221121_Топильский Вячеслав\4 семестр\Курсовая программирование\(445)Operations With matrices\OperationsWithMatrices\OperationsWithMatrices\x64\Release\OperationsWithMatrices.FMainForm.resources
+F:\221121_Топильский Вячеслав\4 семестр\Курсовая программирование\(445)Operations With matrices\OperationsWithMatrices\OperationsWithMatrices\x64\Release\OperationsWithMatrices.vcxproj.GenerateResource.cache
+D:\221121_Топильский Вячеслав\4 семестр\Курсовая программирование\(445)Operations With matrices\OperationsWithMatrices\OperationsWithMatrices\x64\Release\OperationsWithMatrices.vcxproj.AssemblyReference.cache
+D:\221121_Топильский Вячеслав\4 семестр\Курсовая программирование\(445)Operations With matrices\OperationsWithMatrices\OperationsWithMatrices\x64\Release\OperationsWithMatrices.vcxproj.SuggestedBindingRedirects.cache
+D:\221121_Топильский Вячеслав\4 семестр\Курсовая программирование\(445)Operations With matrices\OperationsWithMatrices\OperationsWithMatrices\x64\Release\OperationsWithMatrices.FMainForm.resources
+D:\221121_Топильский Вячеслав\4 семестр\Курсовая программирование\(445)Operations With matrices\OperationsWithMatrices\OperationsWithMatrices\x64\Release\OperationsWithMatrices.vcxproj.GenerateResource.cache
